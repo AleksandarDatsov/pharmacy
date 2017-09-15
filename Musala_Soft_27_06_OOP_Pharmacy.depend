@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1498574553 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cperson.cpp
+	"CPerson.h"
+	<cstring>
+	<string>
+	<iostream>
+	<stdio.h>
+	<stdio.h>
+	<ctype.h>
+
+1498574033 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cperson.h
+	<cstring>
+	<iostream>
+	<vector>
+	"CAbsClass.h"
+
+1498647770 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\main.cpp
+	<iostream>
+	"CPerson.h"
+	"CDate.h"
+	"CProvider.h"
+	"CManufacturer.h"
+	"CMedicament.h"
+	"CPharmacy.h"
+	<cstring>
+
+1498573984 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cabsclass.h
+
+1498646062 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cprovider.cpp
+	<iostream>
+	"CProvider.h"
+	"CDate.h"
+	<iostream>
+
+1498590548 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cprovider.h
+	"CPerson.h"
+	"CDate.h"
+	"CAbsClass.h"
+
+1498591590 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cdate.cpp
+	"CDate.h"
+	<ctime>
+	<iostream>
+
+1498597423 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cdate.h
+	"CAbsClass.h"
+	<ctime>
+
+1498646911 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cmanufacturer.cpp
+	<iostream>
+	"CManufacturer.h"
+	"CPerson.h"
+
+1498645642 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cmanufacturer.h
+	"CPerson.h"
+	"CAbsClass.h"
+
+1498648184 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cmedicament.cpp
+	<iostream>
+	"CMedicament.h"
+	"CProvider.h"
+
+1498642941 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cmedicament.h
+	"CProvider.h"
+	"CManufacturer.h"
+	"CDate.h"
+	"CAbsClass.h"
+
+1498647770 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cpharmacy.cpp
+	<iostream>
+	"CPharmacy.h"
+	<vector>
+	<cstring>
+
+1498646911 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_27_06_oop_pharmacy\cpharmacy.h
+	"CMedicament.h"
+	"CPerson.h"
+	"CProvider.h"
+
+1505481820 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cdate.cpp
+	"CDate.h"
+	<ctime>
+	<iostream>
+
+1499776984 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cdate.h
+	"CAbsClass.h"
+	<ctime>
+
+1498818777 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cabsclass.h
+
+1499780209 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cmanufacturer.cpp
+	<iostream>
+	"CManufacturer.h"
+	"CPerson.h"
+
+1499516949 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cmanufacturer.h
+	"CPerson.h"
+	"CAbsClass.h"
+
+1499372354 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cperson.h
+	<cstring>
+	<iostream>
+	<vector>
+	"CAbsClass.h"
+
+1499780209 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cmedicament.cpp
+	<iostream>
+	"CMedicament.h"
+	"CProvider.h"
+
+1499779371 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cmedicament.h
+	"CProvider.h"
+	"CManufacturer.h"
+	"CDate.h"
+	"CAbsClass.h"
+	<vector>
+
+1499777158 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cprovider.h
+	"CPerson.h"
+	"CDate.h"
+	"CAbsClass.h"
+
+1499782844 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cpharmacy.cpp
+	<iostream>
+	"CPharmacy.h"
+	<vector>
+	<cstring>
+
+1499780653 c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cpharmacy.h
+	"CMedicament.h"
+	"CPerson.h"
+	"CProvider.h"
+
+1499780209 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cprovider.cpp
+	<iostream>
+	"CProvider.h"
+	"CDate.h"
+	<iostream>
+
+1499517270 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\main.cpp
+	<iostream>
+	"CPerson.h"
+	"CDate.h"
+	"CProvider.h"
+	"CManufacturer.h"
+	"CMedicament.h"
+	"CPharmacy.h"
+	<cstring>
+
+1499494710 source:c:\users\frog\desktop\musalac++\projects_c++\musala_soft_06_27_oop_pharmacy__group_project\cperson.cpp
+	"CPerson.h"
+	<cstring>
+	<string>
+	<iostream>
+	<stdio.h>
+	<stdio.h>
+	<ctype.h>
+

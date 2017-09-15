@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Musala_Soft_27_06_OOP_Pharmacy" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/Musala_Soft_27_06_OOP_Pharmacy" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="CAbsClass.h" />
+		<Unit filename="CDate.cpp" />
+		<Unit filename="CDate.h" />
+		<Unit filename="CManufacturer.cpp" />
+		<Unit filename="CManufacturer.h" />
+		<Unit filename="CMedicament.cpp" />
+		<Unit filename="CMedicament.h" />
+		<Unit filename="CPerson.cpp" />
+		<Unit filename="CPerson.h" />
+		<Unit filename="CPharmacy.cpp" />
+		<Unit filename="CPharmacy.h" />
+		<Unit filename="CProvider.cpp" />
+		<Unit filename="CProvider.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
